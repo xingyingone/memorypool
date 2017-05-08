@@ -1,1 +1,1 @@
-https://github.com/xingyingone/miniftp/blob/master/readme.md
+If you find some bugs in codes, please contact me via Email: whuxingying@163@163.com
